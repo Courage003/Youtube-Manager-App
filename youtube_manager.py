@@ -52,7 +52,7 @@ def delete_video(videos):
 def main():
     #shortcut key for group indentation 'ctrl + ]'
 
-    videos = load_data
+    videos = load_data()
     while True:
         print("\n Youtube Manager | Choose an option ")
         print("1. List a favourite video ")
