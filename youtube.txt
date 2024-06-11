@@ -1,1 +1,1 @@
-[{"name": "Mowgli", "time": "50 min"}, {"name": "Swati", "time": "20 min"}, {"name": "Mowgli Vloggers", "time": "20 min"}]
+[{"name": "Mowgli", "time": "50 min"}, {"name": "Sw", "time": "20 min"}, {"name": "Mowgli Vloggers", "time": "20 min"}]
